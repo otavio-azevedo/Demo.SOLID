@@ -11,7 +11,7 @@
 	- Decorator Pattern (uma nova classe é criada que apenas decora uma existente)
 
 ## L.: Liskov Substitution Principle (LSP)
-	- 
+	- Obedeça os contratos das abstrações 
 
 ## l.: Interface Segregation Principle (ISP)
 	- Segregação das interfaces, separamos escritas e leituras
